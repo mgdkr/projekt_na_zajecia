@@ -1,0 +1,4 @@
+Projekt dotyczy aplikacji do zarządzania budżetem studenckim i uświadamiania wydatków. 
+Rozwiązuje problem niekontrolowanego wydawania pieniędzy i braku przehlądu finansów wśród młodzieży. 
+Odbiorcą są osoby 18–25 lat, które chcą oszczędzać i planować swoje wydatki. 
+Na pewno znajdą się: śledzenie wydatków, kategorie kosztów, ustawianie budżetów miesięcznych, wykresy wydatków, powiadomienia o przekroczeniu limitu.
