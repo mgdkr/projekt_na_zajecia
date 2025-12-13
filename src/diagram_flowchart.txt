@@ -1,32 +1,5 @@
 Diagram przypadków użycia: Aplikacja do zarządzania budżetem studenckim
 (odbiorcy: osoby 18–25 lat)
-
-    UŻYTKOWNIK (Student 18–25)
-         O
-        /|\
-        / \
-
-        |                +-------------------------------------------------+
-        |                |                APLIKACJA BUDŻETOWA                |
-        |                |                                                 |
-        +--------------->|  (1) Śledzenie wydatków                          |
-        +--------------->|  (2) Kategorie kosztów                           |
-        +--------------->|  (3) Ustawianie budżetów miesięcznych            |
-        +--------------->|  (4) Wykresy wydatków                            |
-        +--------------->|  (5) Powiadomienia o przekroczeniu limitu       |
-                         |                                                 |
-                         +-------------------------------------------------+
-
-Relacje istotne (przykładowe):
- - Powiadomienia o przekroczeniu limitu -> wykorzystuje -> Ustawianie budżetów miesięcznych
- - Wykresy wydatków -> korzysta z -> Śledzenie wydatków
- - Kategorie kosztów -> powiązane ze Śledzeniem wydatków
-
-Uwagi:
- - Cechy kluczowe: śledzenie wydatków, kategorie, budżety miesięczne, wykresy, powiadomienia.
- - Odbiorcy: młodzi użytkownicy 18–25 lat chcący oszczędzać i planować wydatki.
-
-
 DIAGRAM FLOWCHART - PRZEPŁYW GŁÓWNYCH OPERACJI
 
                               * START *
