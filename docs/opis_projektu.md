@@ -3,9 +3,9 @@
 Odbiorcą są osoby 18–25 lat, które chcą oszczędzać i planować swoje wydatki. 
 Na pewno znajdą się: śledzenie wydatków, kategorie kosztów, ustawianie budżetów miesięcznych, wykresy wydatków, powiadomienia o przekroczeniu limitu.*
 
-**ROZSZERZONY OPIS**
+## **ROZSZERZONY OPIS**
 
-Aplikacja będzie udostępniać interfejs przyjazny dla użytkownika, umożliwiający szybkie dodawanie wydatków i przeglądanie historii transakcji. Główne funkcjonalności obejmują:
+>Aplikacja będzie udostępniać interfejs przyjazny dla użytkownika, umożliwiający szybkie dodawanie wydatków i przeglądanie historii transakcji. Główne funkcjonalności obejmują:
 
 1. Śledzenie wydatków - szczegółowe rejestrowanie każdego wydatku z data, kategorią, kwotą i opcjonalnym opisem.
 
@@ -35,18 +35,33 @@ DODATKOWE FUNKCJONALNOŚCI:
 
 12. Notatki i tagi - możliwość dodawania opisów i etykiet do wydatków ułatwiających kategoryzację i przeszukiwanie.
 
-TECHNOLOGIA I BEZPIECZEŃSTWO:
+**TECHNOLOGIA I BEZPIECZEŃSTWO:**
 
-Aplikacja zostanie zbudowana na nowoczesnym stosie technologicznym z wykorzystaniem frontend (React/Vue.js) i backend (Node.js/Python). Baza danych będzie zabezpieczona szyfrowniem SSL/TLS. Aplikacja będzie posiadać funkcję dwustopniowej autentykacji dla zwiększenia bezpieczeństwa kont. Dane użytkowników będą przechowywane zgodnie z RODO i innymi normami ochrony prywatności.
+>Aplikacja zostanie zbudowana na nowoczesnym stosie technologicznym z wykorzystaniem frontend (React/Vue.js) i backend (Node.js/Python). Baza danych będzie zabezpieczona szyfrowniem SSL/TLS. Aplikacja będzie posiadać funkcję dwustopniowej autentykacji dla zwiększenia bezpieczeństwa kont. Dane użytkowników będą przechowywane zgodnie z RODO i innymi normami ochrony prywatności.
 
-ANALITYKA I UCZENIE SIĘ:
+## **ANALITYKA I UCZENIE SIĘ:**
 
 Aplikacja będzie uczyć się preferencji użytkownika i na podstawie historii wydatków sugerować optymalizację budżetu. Będą dostępne poradniki i artykuły edukacyjne dotyczące finansów osobistych i oszczędzania. Użytkownik będzie mógł porównać swoje wydatki z wcześniejszymi okresami i zobaczyć obszary, w których może zaoszczędzić.
 
-COMMUNITY I WSPÓŁDZIELENIE:
+### **COMMUNITY I WSPÓŁDZIELENIE:**
 
-Opcjonalne funkcje społeczne pozwalające użytkownikom dzielić się strategiami oszczędzania (anonimowo) i otrzymywać inspirację od innych. Możliwość tworzenia wspólnych budżetów dla studentów mieszkających razem, śledzenia wspólnych wydatków (czynsz, media).
+- Opcjonalne 
+  - funkcje społeczne pozwalające użytkownikom dzielić się strategiami oszczędzania (anonimowo)
+  - otrzymywać inspirację od innych. 
+- Możliwość
+  - tworzenia wspólnych budżetów dla studentów mieszkających razem,
+  - śledzenia wspólnych wydatków (czynsz, media)
 
 PLAN WDRAŻANIA:
 
-Projekt będzie wdrażany etapami - najpierw MVP (Minimum Viable Product) ze zliczu podstawowych funkcji (dodawanie wydatków, kategorie, budżety, wykresy), następnie rozbudowa o zaawansowane funkcjonalności i integracje z bankami oraz aplikacjami płatniczymi.
+```mermaid
+flowchart TD
+A["MVP"] --> B["Rozbudowa funkcjonalności<br/>i integracje bankowe"]
+B --> C["Integracje z aplikacjami<br/>płatniczymi"]
+C --> D["Pełna integracja<br/>ekosystemu finansowego"]
+```
+
+![opis](https://www.merito.pl/sites/merito/files/merito_lgoo.jpg)
+
+
+
