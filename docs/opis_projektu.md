@@ -23,17 +23,12 @@ Na pewno znajdą się: śledzenie wydatków, kategorie kosztów, ustawianie bud�
 
 Aplikacja będzie responsywna, dostępna na urządzeniach mobilnych i stacjonarnych, z intuicyjnym interfejsem wymagającym minimalnego czasu nauki. Dane będą bezpiecznie przechowywane z możliwością synchronizacji między urządzeniami użytkownika.
 
-DODATKOWE FUNKCJONALNOŚCI:
+**DODATKOWE FUNKCJONALNOŚCI:**
 
-8. Cele oszczędnościowe - możliwość ustalania długoterminowych celów finansowych (wyjazd, sprzęt, mieszkanie) z śledzeniem postępu i szacowanym czasem ich osiągnięcia.
+| Cele oszczędnościowe | Porównanie wydatków | Powtarzające się wydatki | Mulitwalutowość | Notatki i tagi|
+|---|---|---|---|---|
+| możliwość ustalania długoterminowych celów finansowych (wyjazd, sprzęt, mieszkanie) z śledzeniem postępu i szacowanym czasem ich osiągnięcia | analiza porównawcza własnych wydatków z przeciętną dla danego wieku lub grupy społecznej (anonimowe dane statystyczne) | automatyczne dodawanie regularnych wydatków (czynsz, abonament, ubezpieczenie) bez konieczności ręcznego wprowadzania każdego miesiąca | obsługa różnych walut dla studentów studiujących za granicą z automatyczną konwersją kursów | możliwość dodawania opisów i etykiet do wydatków ułatwiających kategoryzację i przeszukiwanie |
 
-9. Porównanie wydatków - analiza porównawcza własnych wydatków z przeciętną dla danego wieku lub grupy społecznej (anonimowe dane statystyczne).
-
-10. Powtarzające się wydatki - automatyczne dodawanie regularnych wydatków (czynsz, abonament, ubezpieczenie) bez konieczności ręcznego wprowadzania każdego miesiąca.
-
-11. Mulitwalutowość - obsługa różnych walut dla studentów studiujących za granicą z automatyczną konwersją kursów.
-
-12. Notatki i tagi - możliwość dodawania opisów i etykiet do wydatków ułatwiających kategoryzację i przeszukiwanie.
 
 **TECHNOLOGIA I BEZPIECZEŃSTWO:**
 
@@ -61,7 +56,7 @@ B --> C["Integracje z aplikacjami<br/>płatniczymi"]
 C --> D["Pełna integracja<br/>ekosystemu finansowego"]
 ```
 
-![opis](https://www.merito.pl/sites/merito/files/merito_lgoo.jpg)
+![Aplikacja do zarządzania budżetem studenckim](aplikacja_obrazek.png)
 
 
 
